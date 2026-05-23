@@ -177,7 +177,7 @@ function UserSection() {
             <button
                 onClick={toggleTheme}
                 className={cn(
-                    "flex items-center gap-2 px-3 py-2 rounded-lg text-sm font-medium transition-all-300 w-full text-muted-foreground hover:text-foreground hover:bg-muted cursor-pointer",
+                    "nav-link nav-link-inactive w-full cursor-pointer",
                     !open && animate && "justify-center"
                 )}
             >
@@ -218,7 +218,7 @@ function UserSection() {
                     setOpen(false);
                 }}
                 className={cn(
-                    "flex items-center gap-2 px-3 py-2 rounded-lg text-sm font-semibold transition-all-300 w-full cursor-pointer hover:text-destructive hover:bg-destructive/10",
+                    "nav-link nav-link-inactive w-full cursor-pointer hover:text-destructive hover:bg-destructive/10",
                     !open && animate && "justify-center"
                 )}
             >
