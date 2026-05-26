@@ -253,7 +253,6 @@ export default function TemplateGallery() {
       author: "Shakshi",
       views: 0,
       rating: 0,
-      image: "/template-previews/Graffiti-StreetArt.png", // optional preview image
       createdAt: "2026-05-26",
     },
 
