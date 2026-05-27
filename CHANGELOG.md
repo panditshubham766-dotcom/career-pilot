@@ -1,3 +1,10 @@
+## [1.38.1](https://github.com/anurag3407/career-pilot/compare/v1.38.0...v1.38.1) (2026-05-27)
+
+
+### Bug Fixes
+
+* template gallery import duplicate bug resolved ([0ac9d9c](https://github.com/anurag3407/career-pilot/commit/0ac9d9c403bd27f37c9fd45bc0b39c3f392732b3))
+
 # [1.38.0](https://github.com/anurag3407/career-pilot/compare/v1.37.0...v1.38.0) (2026-05-27)
 
 
