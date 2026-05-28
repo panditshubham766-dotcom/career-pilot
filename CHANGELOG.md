@@ -1,3 +1,10 @@
+# [1.53.0](https://github.com/anurag3407/career-pilot/compare/v1.52.0...v1.53.0) (2026-05-28)
+
+
+### Features
+
+* Add Rainforest Canopy portfolio template ([6c18d01](https://github.com/anurag3407/career-pilot/commit/6c18d0122f73875156c5c9efc84a5e26bb3085ef))
+
 # [1.52.0](https://github.com/anurag3407/career-pilot/compare/v1.51.1...v1.52.0) (2026-05-28)
 
 
